@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/lynntuuu/test-npm/compare/v1.0.1...v1.0.2) (2023-09-14)
+
+
+### Bug Fixes
+
+* change npm package params ([072f4c8](https://github.com/lynntuuu/test-npm/commit/072f4c8d828dbafc5d8cbc46bb286b129313e945))
+
 ## [1.0.1](https://github.com/lynntuuu/test-npm/compare/v1.0.0...v1.0.1) (2023-09-14)
 
 
