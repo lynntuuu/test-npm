@@ -1,3 +1,3 @@
-module.exports = (name = 'Lynn Tu') => {
+module.exports = (name = 'Lynn') => {
   return `Hello ${name}, this is my first npm module`;
 }
